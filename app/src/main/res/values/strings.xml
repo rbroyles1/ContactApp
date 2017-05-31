@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contact App</string>
+    <string name="Fname">First Name</string>
+    <string name="Lname">Last Name</string>
+    <string name="Save">Save picture</string>
+    <string name="Camera">Start Camera</string>
+
+</resources>
